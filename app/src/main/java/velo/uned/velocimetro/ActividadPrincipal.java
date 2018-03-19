@@ -147,7 +147,7 @@ public class ActividadPrincipal extends  AppCompatActivity  implements LocationL
 
 
         ///Overiide update
-
+    //hola
 
 
         mLocationManager = (LocationManager) this.getSystemService(Context.LOCATION_SERVICE);
