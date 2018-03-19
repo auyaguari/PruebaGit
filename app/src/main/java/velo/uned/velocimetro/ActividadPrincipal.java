@@ -55,6 +55,7 @@ public class ActividadPrincipal extends  AppCompatActivity  implements LocationL
     private boolean firstfix;
     //private String status;
 
+ // nuevo comentario
 
 
     private SharedPreferences sharedPreferences;
